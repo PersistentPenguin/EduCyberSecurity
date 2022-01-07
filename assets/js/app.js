@@ -134,9 +134,11 @@ let footer = $(`
               </div>
                 <form>
                   <form action="https://formcarry.com/s/7zGChmvrtYX" method="POST" accept-charset="UTF-8" >
-                  <input type="text" name="field1" placeholder="Your Name" required/>
-                  <input type="email" name="field2" placeholder="Email Address"  required/>
-                  <textarea name="field3" placeholder="Type your Message" required></textarea>
+			<input type="email" name="email">
+			<input type="text" name="firstName">
+			<input type="text" name="lastName">
+			<input type="text" name="anotherInput">
+			<input type="hidden" name="_gotcha">
                   <input type="submit" value="Send" />
                 </form>
              </div>
