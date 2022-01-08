@@ -136,6 +136,7 @@ let footer = $(`
                   <input type="text" name="field1" placeholder="Your Name" required/>
                   <input type="email" name="field2" placeholder="Email Address"  required/>
                   <textarea name="field3" placeholder="Type your Message" required></textarea>
+                  <div class="g-recaptcha" data-sitekey="6LdkHvsdAAAAAAWFlgxGSJ_olSgnRVz4L4MFOW28"></div>
                   <input type="submit" value="Send" />
                 </form>
              </div>
