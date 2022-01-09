@@ -140,7 +140,8 @@ let footer = $(`
                   <input type="submit" value="Send" />
 			<br>
 		       </br>
-                  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://www.buymeacoffee.com/adithyachandra" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 190px !important;" ></a>
+                  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+                 <a href="https://www.buymeacoffee.com/adithyachandra" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 190px !important;" ></a>
 			<br>
 			</br>
                 </form>
