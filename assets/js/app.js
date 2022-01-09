@@ -138,6 +138,11 @@ let footer = $(`
                   <textarea name="message" placeholder="Type your Message" required></textarea>
                   <div class="g-recaptcha" data-sitekey="6LdkHvsdAAAAAAWFlgxGSJ_olSgnRVz4L4MFOW28"></div>
                   <input type="submit" value="Send" />
+			<br>
+		       </br>
+                  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://www.buymeacoffee.com/adithyachandra" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 190px !important;" ></a>
+			<br>
+			</br>
                 </form>
              </div>
           </div>
