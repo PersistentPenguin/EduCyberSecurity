@@ -6,27 +6,20 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Senior Security Consultant",
-    cardImage: "assets/images/experience-page/ey.png",
-    place: "EY",
-    time: "(May, 2020 - present)",
+    title: "Master's Student",
+    cardImage: "assets/images/experience-page/Swansea download.jpg",
+    place: "Swansea",
+    time: "(January, 2022 - present)",
     desp: "",  // ADD <li> here if needs to be in bullet points
   },
   {
-    title: "Associate - Lead Security Engineer",
-    cardImage: "assets/images/experience-page/cts.png",
-    place: "Cognizant Technology Solutions",
-    time: "(Feb '17 to April '20)",
-    desp: "",
+    title: "Cyber Security Consultant",
+    cardImage: "assets/images/experience-page/ey.png",
+    place: "EY",
+    time: "(August, 2020 - January 2022",
+    desp: "",  // ADD <li> here if needs to be in bullet points
   },
-  {
-    title: "Research Intern",
-    cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
-    place: "IIT, Bombay",
-    time: "(May'15 - Oct'15)",
-    desp:"",
-  },
-];
+ ];
 
 const showCards2 = () => {
   let output = "";
@@ -57,31 +50,6 @@ const showCards2 = () => {
   experiencecards.innerHTML = output;
 };
 document.addEventListener("DOMContentLoaded", showCards2);
-
-
-// Volunteership Cards
-
-const volunteership = document.querySelector(".volunteership");
-const volunteershipcards = [
-  {
-    title: "Kerala Police - Cyberdome",
-    cardImage: "assets/images/experience-page/cyberdome.png",
-    description:
-      "Public Private partnership for CyberSecurity",
-  },
-  {
-    title: "Google Developer Group",
-    cardImage: "assets/images/experience-page/gdg.jpg",
-    description:
-      "GDG - Kozhikode",
-  },
-  {
-    title: "OWASP",
-    cardImage: "assets/images/experience-page/owasp.png",
-    description:
-      "OWASP - Bengaluru Chapter",
-  },
-];
 
 const showCards = () => {
   let output = "";
