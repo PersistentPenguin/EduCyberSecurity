@@ -10,7 +10,7 @@ const moocscards = [
     moocLink: "https://academy.attackiq.com/learning-paths/purple-teaming",
   },
   {
-    title: "Certified Ethical Hacker (C|EH v9)",
+    title: "Certified Ethical Hacker (C|EH v10)",
     cardImage: "assets/images/education-page/ceh.png",
     moocLink: "https://www.eccouncil.org/",
   },
@@ -20,31 +20,13 @@ const moocscards = [
     cardImage: "assets/images/education-page/tenable.png",
     moocLink: "https://www.tenable.com/products/nessus/nessus-professional",
   },
-  {
-    title: "IBM Certified Associate Administrator - Security QRadar",
-    cardImage: "assets/images/education-page/ibm.png",
-    moocLink: "https://www.ibm.com/training/certification/C0003602",
-  },
-  {
-    title: "AA Certified Advanced RPA Professional",
-    cardImage: "assets/images/education-page/automation.svg",
-    moocLink: "https://university.automationanywhere.com/certification/rpa-certification?sc=advance#aScrlId",
-  },
+  
   {
     title: "Microsoft Certified: Azure Fundamentals",
     cardImage: "assets/images/education-page/microsoft.svg",
     moocLink: "https://docs.microsoft.com/en-us/learn/certifications/exams/az-900",
   },
-  {
-    title: "Machine Learning by Stanford University on Coursera",
-    cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/account/accomplishments/verify/LJTLG44WSXUK",
-  },
-  {
-    title: "Zscaler Certified Cloud Administrator - Internet Access",
-    cardImage: "assets/images/education-page/Zscaler.png",
-    moocLink: "https://www.zscaler.com/resources/training-certification-overview",
-  },
+  
   {
     title: "Certified Ethical Hacking Expert (Level 1)",
     cardImage: "assets/images/education-page/td.jpg",
