@@ -1,7 +1,7 @@
 window.onload = function () {
   const favicon = document.getElementById("favicon");
   let pageTitle = document.title;
-  let attentionMessage = "Adithya Chandra";
+  let attentionMessage = "Pooja Niloor";
 
   document.addEventListener("visibilitychange", function (e) {
     let isPageActive = !document.hidden;
@@ -16,14 +16,14 @@ window.onload = function () {
   document.addEventListener("visibilitychange", function (e) {
     if (!document.hidden) {
       document.title = pageTitle;
-      favicon.href = "./assets/images/dp_male.svg";
+      favicon.href = "./assets/images/Cute-girl.jpg";
     }
   });
 
   function toggle() {
     if (document.title === attentionMessage) {
         document.title = pageTitle;
-        favicon.href = "./assets/images/dp_male.svg";
+        favicon.href = "./assets/images/Cute-girl.jpg";
     } else {
         document.title = attentionMessage;
         favicon.href = "./assets/images/favicon.png";
