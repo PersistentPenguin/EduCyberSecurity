@@ -26,7 +26,7 @@ window.onload = function () {
         favicon.href = "./assets/images/Cute-girl.png";
     } else {
         document.title = attentionMessage;
-        favicon.href = "./assets/images/dp_female.svg";
+        favicon.href = "./assets/images/Cute-girl.png";
     }
   }   
 };
