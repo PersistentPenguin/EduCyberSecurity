@@ -16,17 +16,17 @@ window.onload = function () {
   document.addEventListener("visibilitychange", function (e) {
     if (!document.hidden) {
       document.title = pageTitle;
-      favicon.href = "./assets/images/Cute-girl.png";
+      favicon.href = "./EduCyberSecurity/assets/images/Cute-girl.png";
     }
   });
 
   function toggle() {
     if (document.title === attentionMessage) {
         document.title = pageTitle;
-        favicon.href = "./assets/images/Cute-girl.png";
+        favicon.href = "./EduCyberSecurity/assets/images/Cute-girl.png";
     } else {
         document.title = attentionMessage;
-        favicon.href = "./assets/images/dp_female.svg";
+        favicon.href = "./EduCyberSecurity/assets/images/dp_female.svg";
     }
   }   
 };
