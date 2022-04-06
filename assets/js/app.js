@@ -135,7 +135,7 @@ let footer = $(`
                   <input type="text" name="name" placeholder="Your Name" required/>
                   <input type="email" name="email" placeholder="Email Address"  required/>
                   <textarea name="message" placeholder="Type your Message" required></textarea>
-                  <div class="g-recaptcha" data-sitekey="6LdkHvsdAAAAAAWFlgxGSJ_olSgnRVz4L4MFOW28"></div>
+         // <div class="g-recaptcha" data-sitekey="6LdkHvsdAAAAAAWFlgxGSJ_olSgnRVz4L4MFOW28"></div>
                   <input type="submit" value="Send" />
 			<br>
 		       </br>
@@ -152,7 +152,7 @@ let footer = $(`
     
 
     <div class="rounded-social-buttons tag">
-    <a class="social-button twitter" href="https://twitter.com/adi_cha_" target="_blank">
+    <a class="social-button twitter" href="https://twitter.com/PoojaNiloor" target="_blank">
     <!-- SVG code for twitter icon -->
     <svg class="twitter-icon-footer" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"
         xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 500 500" enable-background="new 0 0 500 500"
